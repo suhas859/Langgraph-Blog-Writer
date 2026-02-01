@@ -21,7 +21,7 @@ Router → Research → Planner → Parallel Writers → Reducer → Image Gener
 ## 🛠 Tech Stack
 - LangGraph
 - LangChain
-- OpenAI / Gemini
+- OpenAI & Gemini
 - Tavily Search
 - Streamlit
 - Pydantic
